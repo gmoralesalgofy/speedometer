@@ -1,20 +1,3 @@
-
-<html class="no-js" lang="">
-
-<head>
-    <meta charset="utf-8">
-    <title></title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-
-    <link rel="stylesheet" type="text/css" href="index.css" media="screen"/>
-</head>
-
-<body>
-
-
 <div class="c-calculator">
     <h2 class="c-calculator__title">
         Envision Your Growth
@@ -975,8 +958,5 @@
         $('.range-slider').trigger('input');
     });
 </script>
-
-
-</body>
 
 
