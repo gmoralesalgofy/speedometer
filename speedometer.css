@@ -67,7 +67,7 @@
 
 
 .c-calculator {
-    padding: 70px;
+    padding: 0px;
     background: #000000;
     color: #ffffff;
 }
@@ -176,7 +176,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin: 110px 0 0 0;
+    margin: 0 0 0 0;
 }
 
 @media (max-width: 1439px) {
